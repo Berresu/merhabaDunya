@@ -10,4 +10,4 @@ kayanYazi=function(nesne,zaman){
     },zaman)
 }
 let nesne=document.getElementById("yazi");
-kayanYazi(nesne,750);
+kayanYazi(nesne,500);
